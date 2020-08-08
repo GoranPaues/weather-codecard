@@ -1,0 +1,12 @@
+{
+	"name": "get_weather",
+    "version": "1.0.0",
+	"description": "A function that gets the current weather forecast from an API",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.18",
+		"axios": "^0.18.0"
+	}
+}
