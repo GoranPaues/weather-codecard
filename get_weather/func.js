@@ -2,7 +2,7 @@ const fdk=require('@fnproject/fdk');
 const axios = require('axios');
 
 fdk.handle(function(input, ctx) {
-  let url = 'http://api.openweathermap.org/data/2.5/weather?appid=YOUR_API_KEY&q=Stockholm'
+  let url = 'http://api.openweathermap.org/data/2.5/weather?appid=[YOUR_API_KEY]&q=Stockholm'
   var codeCardData = getWeather(url)
   return codeCardData
 })
