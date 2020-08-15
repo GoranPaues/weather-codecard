@@ -2,6 +2,8 @@
 
 This project contains a function that gets the weather forecast from an API. This function can be deployed to [Oracle Functions](https://docs.cloud.oracle.com/en-us/iaas/Content/Functions/Concepts/functionsoverview.htm) and consumed by the [Oracle Code Card](https://developer.oracle.com/codecard/).
 
+![Code Card](codecard.jpg)
+
 ## Prerequisites
 
 * You need an Oracle Cloud Infrastructure (OCI) account, [sign up for a free trial if you don't have one already](https://myservices.us.oraclecloud.com/mycloud/signup?language=en).
@@ -9,8 +11,6 @@ This project contains a function that gets the weather forecast from an API. Thi
 * Sign up at [Open Weather Map](https://home.openweathermap.org/users/sign_up) and get your API key.
 
 * [Follow the instructions](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_functions_local_quickview/functions_quickview_top/functions_quickview/index.html#) on how to set up your local environment for Oracle Functions.
-
-![Code Card](codecard.jpg)
 
 ## How to build
 
