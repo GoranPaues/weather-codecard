@@ -10,6 +10,8 @@ This project contains a function that gets the weather forecast from an API. Thi
 
 * [Follow the instructions](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_functions_local_quickview/functions_quickview_top/functions_quickview/index.html#) on how to set up your local environment for Oracle Functions.
 
+![Code Card](codecard.jpg)
+
 ## How to build
 
 * Go to folder get_weather and insert your API key in func.js
